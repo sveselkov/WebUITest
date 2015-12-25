@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SmokreTest/SmokreTest.iml" filepath="$PROJECT_DIR$/SmokreTest/SmokreTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebUISTestsJava.iml" filepath="$PROJECT_DIR$/WebUISTestsJava.iml" />
+    </modules>
+  </component>
+</project>
